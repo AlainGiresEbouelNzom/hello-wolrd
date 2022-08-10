@@ -1,2 +1,2 @@
 # java
-기본적인 실행 방법은 구글에 검색해보세요
+Simple Hello World
